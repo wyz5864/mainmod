@@ -1,0 +1,4 @@
+[submodule "submod"]
+	path = submod
+	url = https://github.com/wyz5864/submod.git
+	branch = test
